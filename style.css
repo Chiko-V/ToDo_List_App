@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(4, 13, 22);
+}
+
+.inputField{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.wrapper{
+    text-align: center;
+    margin-top: 130px;
+}
+
+.footer{
+    text-align: center;
+    margin-top: 50px;
+}
+
+header{
+    color: rgb(173, 19, 19);
+    font-size: 40px;
+}
+
+input{
+    width: 40%;
+    height: 40px;
+    border-radius: 10px;
+    border-color: rgb(150, 6, 6);
+    background-color: rgb(182, 206, 230);
+    font-size:18px ;
+    color:rgb(20, 4, 4);
+}
+
+input:hover{
+    border-color: rgb(150, 6, 6);
+    box-shadow: rgb(150, 6, 6);
+    border-radius:10px ;
+}
+
+button{
+    width: 7%;
+    height: 38px;
+    border-radius: 10px;
+    background-color: rgb(150, 6, 6);
+    color: cornsilk;
+}
+
+button:hover{
+    border-color: rgb(150, 6, 6);
+    box-shadow: rgb(150, 6, 6);
+    border-radius:10px ;
+}
+
+.todoList{
+    border-radius: 10px;
+    background-color:rgb(182, 206, 230) ;
+    font-size:20px ;
+    list-style: none;
+    width: 500px;
+    margin-left: 360px;
+    color:rgb(20, 4, );
+}
+
+.text{
+    color:cornsilk;
+    margin-bottom: 13px;
+}
+
+
+
